@@ -1,0 +1,18 @@
+ut1 
+1- math 
+2- str
+3- take a input and display name and age (je definition che ej)
+4. (6.-)
+
+extra 5
+prod name 
+price 120
+qty 2
+discount 5% - $12
+Net amt.228
+
+extra 6
+Celsius
+fer.
+
+10 slides required for presentation 
