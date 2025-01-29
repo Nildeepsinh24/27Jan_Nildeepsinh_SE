@@ -1,0 +1,11 @@
+https://github.com/Nildeepsinh24/27Jan_Nildeepsinh_SE.git
+
+echo "# 27Jan_Nildeepsinh_SE" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nildeepsinh24/27Jan_Nildeepsinh_SE.git
+git push -u origin main
+
+url for github
